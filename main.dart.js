@@ -59345,7 +59345,7 @@ A.dW(n.x)
 l=A.abr(null)
 q=6
 s=9
-return A.P(l.yK("http://localhost:8092/littlecat-api/v1/skin/testpage",m,h),$async$d_)
+return A.P(l.yK("http://192.168.157.31:8092/littlecat-api/v1/skin/testpage",m,h),$async$d_)
 case 9:k=b
 A.dW(B.c.Y("\uc751\ub2f5",J.c4(k.a)))
 n.aa(new A.a50(n,k))
