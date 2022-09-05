@@ -59247,7 +59247,7 @@ A.dW(n.y)
 l=A.abr(null)
 q=6
 s=9
-return A.P(l.yK("api/cv",m,g),$async$d_)
+return A.P(l.yK("http://192.168.157.31:8090/littlecat-api/v1/testpage",m,g),$async$d_)
 case 9:k=a0
 j=B.a0.wV(0,k.a,null)
 n.aa(new A.a4m(n,j))
